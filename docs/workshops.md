@@ -2,6 +2,8 @@
 
 | Venue        | Description          | Dates |  Speakers/Instructors |Material |
 | ------------- |-------------| -----| -----| -----|
+| Youtube! | Análise de dados de metabolômica explorando ferramentas do GNPS: dos princípios básicos à ferramentas in silico de anotação - Parte 1 | 04/28/2021 11AM PST | Anelize Bauermeister, Danielle Barros, Naydja Maimone and Tiago Leão| [Material](https://docs.google.com/document/d/1Gmp1eyIACYCYCDxyrgto9ZCBVbEHd8I0R9TJHRhRMZY/edit#)| 
+| Youtube! | Análise de dados de metabolômica explorando ferramentas do GNPS: dos princípios básicos à ferramentas in silico de anotação - Parte 2 | 04/29/2021 11AM PST | Anelize Bauermeister, Danielle Barros, Naydja Maimone and Tiago Leão| [Material](https://docs.google.com/document/d/1ib3ZBxj5WcoiIJKsP4kMG2JRS4nyJoW5zVeAJI_CiqE/edit#)| 
 | Zoom! | GNPS Dashboard - Overview | 5/12/2021 9AM PST | Mingxun Wang and Daniel Petras | [Material](https://docs.google.com/document/d/16-ZA3ZPUdkSWdIBNDLzyTetXNX9Uy5iboya-DFON46g/edit?usp=sharing)| 
 
 
